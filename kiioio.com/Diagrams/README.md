@@ -1,1 +1,2 @@
 # kiioio.com blog
+Diagrams
